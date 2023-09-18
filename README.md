@@ -25,3 +25,8 @@ $command
 ```
 
 Now just run, example, `php -v` inside the laravel sail project.
+
+Run migration 
+```bash
+sail artisan migrate
+```
