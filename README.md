@@ -30,3 +30,5 @@ Run migration
 ```bash
 sail artisan migrate
 ```
+
+next
